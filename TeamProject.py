@@ -5,5 +5,6 @@ for k in range(a):
     else:
         break
 
+print("Kek")
 print('Tessting')
 print('Пацаны,это тот файл который мы будем редачить!')
