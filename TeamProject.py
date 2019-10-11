@@ -8,3 +8,4 @@ for k in range(a):
 print("Kek")
 print('Tessting')
 print('Пацаны,это тот файл который мы будем редачить!')
+print('Ауе бродяги симпатяги')
