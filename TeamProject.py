@@ -6,3 +6,4 @@ for k in range(a):
         break
 
 print('Tessting')
+print('Пацаны,это тот файл который мы будем редачить!')
