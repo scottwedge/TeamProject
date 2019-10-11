@@ -7,3 +7,4 @@ for k in range(a):
 
 
 print(a)
+print(a+1)
