@@ -4,7 +4,3 @@ for k in range(a):
         print(k-1)
     else:
         break
-
-
-print(a)
-print(a+1)
