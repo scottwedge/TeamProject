@@ -15,7 +15,7 @@ if __name__ == '__main__':
     MyApp().run()
 =======
 print("Kek")
-print('Tessting')
+print('Testing')
 print('Пацаны,это тот файл который мы будем редачить!')
 print('Ауе бродяги симпатяги')
 >>>>>>> 54ff0302a0d2593e07b0fd2cb33568eb43e209ab
